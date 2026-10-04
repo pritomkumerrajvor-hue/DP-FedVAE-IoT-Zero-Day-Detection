@@ -1,0 +1,11 @@
+[
+  {
+    "hidden_layers": [
+      29
+    ],
+    "optimizer_params": {
+      "lr": 0.01,
+      "weight_decay": 0.0
+    }
+  }
+]

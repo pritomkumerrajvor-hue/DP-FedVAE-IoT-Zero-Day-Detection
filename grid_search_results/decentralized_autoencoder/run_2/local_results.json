@@ -1,0 +1,38 @@
+{
+  "[[1], [2], [3], [4], [5], [6], [7], [8]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.2420553363917861,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.2525050357799046
+  },
+  "[[0], [2], [3], [4], [5], [6], [7], [8]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.23900369051261805,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.24802036880282685
+  },
+  "[[0], [1], [3], [4], [5], [6], [7], [8]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.23818972203298472,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.24662321311188862
+  },
+  "[[0], [1], [2], [4], [5], [6], [7], [8]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.06924713437911123,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.08003684703726321
+  },
+  "[[0], [1], [2], [3], [5], [6], [7], [8]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.2401499901607167,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.2501650606864132
+  },
+  "[[0], [1], [2], [3], [4], [6], [7], [8]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.2389654768339824,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.24651193065801635
+  },
+  "[[0], [1], [2], [3], [4], [5], [7], [8]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.23918031153152697,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.24870107910828665
+  },
+  "[[0], [1], [2], [3], [4], [5], [6], [8]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.23855749252834357,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.2476780210272409
+  },
+  "[[0], [1], [2], [3], [4], [5], [6], [7]]": {
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 0.0001, 'weight_decay': 0.0001}}": 0.23722921052831225,
+    "{'hidden_layers': [29], 'optimizer_params': {'lr': 5e-05, 'weight_decay': 0.0001}}": 0.24752728251041844
+  }
+}
